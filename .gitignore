@@ -1,0 +1,8 @@
+*.xlsm
+*.xlsx
+*.csv
+*.txt
+*.ini
+
+__pycache__
+locate_error_file.py
